@@ -52,9 +52,9 @@ we might see a duplicate here, as we set the min = 3 but we don't
 6 6 6
 
 Min = 5.. slightly harder. the equation is 3/10 = 1/x + 1/y => xy=(3+1/3)x+(3+1/3)y
-min x and y are 5. you end up getting a hyperbola 10/3(10/3+a)+10/3(10/3+b)=(10/3+a)(10/3+b). In this case a and b are not integers. 
+min x and y are 10/3. you end up getting a hyperbola 10/3(10/3+a)+10/3(10/3+b)=(10/3+a)(10/3+b). In this case a and b are not integers. 
 We'd get ab = 100/9, by trialing a={2/3,5/3.......50/3}
-we get as 4 20 5.... 5 5 5 ... 20 4 5valid answers, but since the other 2 are already acounted for. only
+we get 4 20 5.... 5 5 5 ... 20 4 5 as valid answers, but since the other 2 are already acounted for. only
 5 5 5 
 
 Excel table 
